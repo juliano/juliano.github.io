@@ -19,19 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Juliano Alves
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Blog of Juliano Alves"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: vonjuliano
+github_username:  juliano
+search: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-include-cache
 
@@ -54,3 +52,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  name:          "Juliano Alves"
+  avatar:        "bio-photo.png"
+  bio:           "Open-source enthusiast, a firm believer that the future belongs to polyglot and functional programming"
+  location:      "London, UK"
+  github:        "juliano"
+  linkedin:      "julianopalves"
+  stackoverflow: "973740/juliano-alves"
+  twitter:       "@vonjuliano"
