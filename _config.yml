@@ -22,6 +22,7 @@ title: Juliano Alves
 description: "Blog of Juliano Alves"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "juliano/juliano.github.io"
 twitter_username: vonjuliano
 github_username:  juliano
 search: true
@@ -30,6 +31,8 @@ search: true
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
 
@@ -53,6 +56,43 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Outputting
+permalink: /:year/:month/:day/:title/
+paginate: 10
+paginate_path: /page:num/
+timezone: Europe/London
+
 author:
   name:          "Juliano Alves"
   avatar:        "bio-photo.png"
@@ -62,3 +102,19 @@ author:
   linkedin:      "julianopalves"
   stackoverflow: "973740/juliano-alves"
   twitter:       "@vonjuliano"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/vonjuliano"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/juliano"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/julianopalves/"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/973740/juliano-alves"
