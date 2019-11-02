@@ -121,3 +121,6 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "UA-151392630-1"
+
+# SEO Related
+google_site_verification : "EbmWBKPIPw7Jog9f8YX796aEjBKDtMUjyTWbQCu8B10"
