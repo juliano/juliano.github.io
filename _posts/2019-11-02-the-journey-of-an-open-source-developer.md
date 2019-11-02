@@ -3,10 +3,10 @@ layout: single
 title: "The Journey of an Open Source Developer"
 header:
   teaser: /assets/images/hacktoberfest.png
-  imgcredit: "Photo by Patrick Tomasso on Unsplash"
 categories:
   - opensource
   - community
+  - career
 ---
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is an awesome initiative that invites developers from around the world to participate and contribute to Open Source. This is the second year in a row that I managed to beat the challenge, and inspired by it I decided to write a post about how much I learned since I first joined that community.
