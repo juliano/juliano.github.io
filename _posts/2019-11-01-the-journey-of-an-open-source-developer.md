@@ -195,7 +195,7 @@ That's where I am at the moment. I share my attention between Quill and Ndbc, tr
 
 # Conclusion
 
-My personal point of view:
+This almost 10 years open source journey taught me something extremely valuable:
 
 > Open Source is about sharing knowledge. When I am solving an issue I am acquiring knowledge. When I send a pull request, I am spreading that knowledge. Knowledge brings more knowledge!
 
