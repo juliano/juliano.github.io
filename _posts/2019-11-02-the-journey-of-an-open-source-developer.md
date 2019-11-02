@@ -27,7 +27,7 @@ My very first contribution to open source. Here's what I learned contributing to
 
 > I loved the idea of contributing to the greater good, while challenging myself and working with brilliant engineers, way smarter than me.
 
-![](/assets/images/scala-logo.png){: .align-right}I started taking part community initiatives, like running coding dojos. Doing that I met more great devs and we started a small group. At some point, that group dceided to learn Scala. We where studying, coding together and eventually started [Scaladores](https://www.meetup.com/scaladores/), the Scala user group of São Paulo.
+![](/assets/images/scala-logo.png){: .align-right}I started taking part community initiatives, like running coding dojos. Doing that I met more great devs and we started a small group. At some point, that group decided to learn Scala. We where studying, coding together and eventually started [Scaladores](https://www.meetup.com/scaladores/), the Scala user group of São Paulo.
 
 Eventually, Jonas started talking about a different approach for learning he had been studying, called [deliberate practice](https://jamesclear.com/deliberate-practice-theory).
 
@@ -60,7 +60,7 @@ I had finished working in a Ruby on Rails project, and moved to a team working w
 springmvc scaffold product name:string value:double active:boolean
 ```
 
-Even though it's not being maintained anymore, it's still in [Rubygems](https://rubygems.org/gems/springmvc-scaffold). Here are my takeaways from my first public tool:
+Even though it's not being maintained anymore, it's still available in [Rubygems](https://rubygems.org/gems/springmvc-scaffold). Here are my takeaways from my first public tool:
 
 - Generating code/files with Thor
 - Defining commands for a cli
