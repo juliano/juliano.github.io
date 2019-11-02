@@ -124,3 +124,9 @@ analytics:
 
 # SEO Related
 google_site_verification : "EbmWBKPIPw7Jog9f8YX796aEjBKDtMUjyTWbQCu8B10"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "juliano-alves"
+
