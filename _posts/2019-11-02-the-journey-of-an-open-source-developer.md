@@ -11,7 +11,7 @@ categories:
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is an awesome initiative that invites developers from around the world to participate and contribute to Open Source. This is the second year in a row that I managed to beat the challenge, and inspired by it I decided to write a post about how much I learned since I first joined that community.
 
-# A long time ago in a galaxy far, far away...
+## A long time ago in a galaxy far, far away...
 
 The year was 2010, where the universe made his move to make me cross paths with my good friend [Jonas Abreu](https://twitter.com/jonasabreu). Jonas is the creator of [Mirror](http://projetos.vidageek.net/mirror/mirror/), a simple DSL layer over Java Reflection API, making meta programming easier. There was a feature request for a proxy creation capability open, and Jonas asked me if I was interested in implementing it. I accepted the challenge.
 
@@ -33,7 +33,7 @@ Eventually, Jonas started talking about a different approach for learning he had
 
 > What if we could put all these recently acquired knowledge altogether?
 
-# Gamification + Deliberate Practice = Aprenda
+## Gamification + Deliberate Practice = Aprenda
 
 The result was [Aprenda](https://aprenda.vidageek.net/), a learning platform that mix gamification and deliberate practice, making it easier to learn html, regex or git.
 
@@ -52,7 +52,7 @@ Entirely different topics this time, technically and conceptually. However I cou
 
 I had finished working in a Ruby on Rails project, and moved to a team working with Java and Spring. Many CRUDs, a lot of repetition, what gave me an idea. So I started a new project.
 
-# Writing my own Gem
+## Writing my own Gem
 
 ![](/assets/images/ruby-logo.png){: .align-right}The idea was clear, I wanted to generate that similar code the same way one can do with `rails g scaffold`. Using [Thor](http://whatisthor.com/), the same gem powering Rails generators, I created [Spring MVC Scaffold](https://github.com/juliano/springmvc-scaffold). Now, everything I needed to do to create a CRUD was:
 
@@ -73,11 +73,11 @@ Even though it's not being maintained anymore, it's still available in [Rubygems
 
 And I tell you what, after that project, I went to work with a tech environment full of problems.
 
-# Working with Microsoft Tech
+## Working with Microsoft Tech
 
 ![](/assets/images/dotnet-logo.png){: .align-left}<br>While working with Microsoft .NET, I found a few issues that other communities had already solved. My new opportunity to contribute was a matter of porting those solutions.
 
-## [Selenia](https://github.com/juliano/Selenia/)
+### [Selenia](https://github.com/juliano/Selenia/)
 
 In my opinion, [Selenium](https://www.seleniumhq.org/) API has always been pretty bad. Selenia is a DSL to write concise UI tests in C#, so instead of having:
 
@@ -105,7 +105,7 @@ S(By.Name("q").Value("Selenia").Enter();
 
 If you are wondering, the answer is no, it's not necessary to close the driver yourself.
 
-## [CSharp.Fun](https://github.com/brenoferreira/CSharp.Fun/)
+### [CSharp.Fun](https://github.com/brenoferreira/CSharp.Fun/)
 
 When building reports, it's common to navigate the hierarchy of objects, and even more common is *to check if the current node is not null before the next step*. My friend [Breno](https://twitter.com/breno_ferreira) and I implemented a few Monadic Types to deal with that pain, like [Option](https://en.wikipedia.org/wiki/Option_type) and Try:
 
@@ -122,7 +122,7 @@ var success = failure.Recover((Exception ex) => 1);
 success.Value.Should().Be(1);
 ```
 
-## [Ioget](https://github.com/juliano/Ioget/)
+### [Ioget](https://github.com/juliano/Ioget/)
 
 Immutability makes a developer's life easy. Back in the day, asp.net mvc would disagree, the only way to instantiate objects was via setters. I had to do something about it.
 
@@ -143,7 +143,7 @@ private void MarkForAutoClose(IWebDriver driver) =>
 ```
 <br>
 
-# There and Back Again
+## There and Back Again
 
 I moved to London in 2016, what paused my contributions for a while. Eventually, I watched a talk from [Gustavo Amigo](https://github.com/gustavoamigo) about his project [quill-pgsql](https://github.com/gustavoamigo/quill-pgsql), an extension to support Postgres data types with [Quill](https://getquill.io/). He mentioned that the project was in its early moments, ideal for someone to join. And was missing writing some Scala.
 
@@ -193,7 +193,7 @@ More knowledge acquired:
 
 That's where I am at the moment. I share my attention between Quill and Ndbc, trying to make them work together.
 
-# Conclusion
+## Conclusion
 
 This almost 10 years open source journey taught me something extremely valuable:
 
@@ -201,7 +201,7 @@ This almost 10 years open source journey taught me something extremely valuable:
 
 I strongly recommend you to become part of the open source community. It can be difficult, specially in the beginning, but everything you will learn will make you a better developer. I promise!
 
-# Plans for the future
+## Plans for the future
 
 The contributions I have in mind for the near future are:
 - [Implementing array support in Finagle Postgres](https://github.com/finagle/finagle-postgres/issues/55)
