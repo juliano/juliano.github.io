@@ -147,12 +147,12 @@ private void MarkForAutoClose(IWebDriver driver) =>
 
 I moved to London in 2016, what paused my contributions for a while. Eventually, I watched a talk from [Gustavo Amigo](https://github.com/gustavoamigo) about his project [quill-pgsql](https://github.com/gustavoamigo/quill-pgsql), an extension to support Postgres data types with [Quill](https://getquill.io/). He mentioned that the project was in its early moments, ideal for someone to join. And was missing writing some Scala.
 
-After a few pull requests, I decided I to contribute with the main project.
+After a few pull requests, I decided to contribute with the main project.
 <a href="https://getquill.io/">
 ![](/assets/images/quill-logo.png){: .align-center}
 </a>
 
-Quill is a Compile-time Language Integrated Queries for Scala. I consider it the most challenge (and interesting) project I have ever contributed to. It's been a few years since I started, and nowadays I am [one of the maintainers](https://github.com/getquill/quill). Here's what I learned working on Quill:
+Quill is a Compile-time Language Integrated Queries for Scala. I consider it the most challenging (and interesting) project I have ever contributed to. It's been a few years since I started, and nowadays I am [one of the maintainers](https://github.com/getquill/quill). Here's what I learned working on Quill:
 
 - Abstract Syntactic Trees
 - The Dark Arts also known as Scala Macros
