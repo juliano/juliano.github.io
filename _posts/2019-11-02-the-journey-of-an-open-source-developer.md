@@ -27,7 +27,7 @@ My very first contribution to open source. Here's what I learned contributing to
 
 > I loved the idea of contributing to the greater good, while challenging myself and working with brilliant engineers, way smarter than me.
 
-![](/assets/images/scala-logo.png){: .align-right}I started taking part community initiatives, like running coding dojos. Doing that I met more great devs and we started a small group. At some point, that group decided to learn Scala. We where studying, coding together and eventually started [Scaladores](https://www.meetup.com/scaladores/), the Scala user group of São Paulo.
+![](/assets/images/scala-logo.png){: .align-right}I started taking part community initiatives, like running coding dojos. Doing that I met more great devs and we started a small group. At some point, that group decided to learn Scala. We were studying, coding together and eventually started [Scaladores](https://www.meetup.com/scaladores/), the Scala user group of São Paulo.
 
 Eventually, Jonas started talking about a different approach for learning he had been studying, called [deliberate practice](https://jamesclear.com/deliberate-practice-theory).
 
