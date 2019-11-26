@@ -18,7 +18,7 @@ Of course I can! Welcome to our your first remote pairing blog session! In this 
 
 ![](/assets/images/pairing.jpg){: .align-right}
 
-Think about it as a proper pairing session, where I am talking directly to you, speaking my mind. Sometimes it can feel like I am jumping around the code way to easily, but this is natural in a pairing session where one person has more experience that the other. And don't be ashamed, express your opinions and suggestions in the comments.
+Think about it as a proper pairing session, where I am talking directly to you, speaking my mind. Sometimes it can feel like I am jumping around the code way too easily, but this is natural in a pairing session where one person has more experience that the other. And don't be ashamed, express your opinions and suggestions in the comments.
 
 ## Getting started
 
