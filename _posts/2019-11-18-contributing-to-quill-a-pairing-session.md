@@ -75,7 +75,7 @@ trait SQLServerDialect
 
 We are getting close, I can feel it! Following `CanReturnField` we will see that it extends [`ReturningCapability`](https://github.com/getquill/quill/blob/f1c8eb45b86aaa691e1f4017e28457ef13e65504/quill-core/src/main/scala/io/getquill/context/ReturnFieldCapability.scala#L3), which has the definitions for all existing returning behaviours.
 
-`ReturningCapability` is returned by `idiomReturningCapability` from trait [`Capabilities`](https://github.com/getquill/quill/blob/f1c8eb45b86aaa691e1f4017e28457ef13e65504/quill-core/src/main/scala/io/getquill/context/ReturnFieldCapability.scala#L39) and its descendents:
+`ReturningCapability` is returned by `idiomReturningCapability` from trait [`Capabilities`](https://github.com/getquill/quill/blob/f1c8eb45b86aaa691e1f4017e28457ef13e65504/quill-core/src/main/scala/io/getquill/context/ReturnFieldCapability.scala#L39) and its descendants:
 
 ```scala
 trait Capabilities {
