@@ -16,7 +16,7 @@ categories:
 
 ## Motivation
 
-Quill has an asynchronous module called `quill-async` which provides support to MySQL and Postgres databases. This module is built on top of [mauricio/postgresql-async](https://github.com/mauricio/postgresql-async): a [Netty](https://netty.io/) based, database drivers for Postgre and MySQL written in Scala. It is a great solution, and we have been using it for a while now.
+Quill has an asynchronous module called `quill-async` which provides support to MySQL and Postgres databases. This module is built on top of [mauricio/postgresql-async](https://github.com/mauricio/postgresql-async): a [Netty](https://netty.io/) based, database drivers for Postgres and MySQL written in Scala. It is a great solution, and we have been using it for a while now.
 
 But all of sudden, [this issue appeared](https://github.com/getquill/quill/issues/1178):
 
