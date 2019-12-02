@@ -34,7 +34,7 @@ Well, it happens. A replacement is necessary.
 
 ## NDBC: Non-blocking Database Connectivity
 
-[NDBC's goal is to provide a full asyncronous approach to handle databases](https://ndbc.io/). It is built using Netty and [Trane.io Futures](http://trane.io), a High-performance Future implementation for the JVM. Sounds's like a good replacement!
+[NDBC's goal is to provide a full asynchronous approach to handle databases](https://ndbc.io/). It is built using Netty and [Trane.io Futures](http://trane.io), a High-performance Future implementation for the JVM. Sounds's like a good replacement!
 
 Took me some time to implement it, but a few days ago [my pull request integrating NDBC got merged](https://github.com/getquill/quill/pull/1702). Now we have an alternative to `quill-async-postgres`; async support via NDBC driver is available with Postgres database.
 
