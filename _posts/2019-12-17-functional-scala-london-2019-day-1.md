@@ -42,7 +42,7 @@ Some takeaways from his talk:
 
 ## Making Algorthms work with Functional Scala by [Karl Brodowsky](https://twitter.com/bk1_168)
 
-Karl's talk was heavily focused on algorithms and how we should be aware that, sometimes, when being purely focused we can forget about other important aspects of our software, like performance. Using sorting algorithms as examples, he measured and presented how immutability can be expensive.
+Karl's talk was heavily focused on algorithms and how we should be aware that, sometimes, when being purely focused on one aspect, we can forget about other important aspects of our software, like performance. Using sorting algorithms as examples, he measured and presented how immutability can be expensive.
 
 {% include figure image_path="assets/images/funscala2019/brodowski.jpg" caption="Use mutability internally - don't allow it to leak" %}
 
@@ -52,7 +52,7 @@ He finished talking about more performatic sorting algorithms, like [Flash Sort]
 
 This talk introduced [Polynote](https://polynote.org/), a polyglot notebook environment. They started discussing the pain points of working with Scala + Spark in a notebook, what was the motivation to build Polynote.
 
-In summary, they walked-through the process used to built tool... by one developer!
+In summary, they walked-through the process used to built the tool... by one developer!
 
 {% include figure image_path="assets/images/funscala2019/polynote.jpg" caption="The Scala community made the project possible" %}
 
@@ -74,7 +74,7 @@ Some of the highlights about Scala and Kotlin interop were the differences betwe
 
 ## Prototyping the Future with Functional Scala, by [Mike Kotsur](https://twitter.com/s_fcopy)
 
-Mike talked about how good the Scala ecosystem is for prototyping. He told us about a project that would have to speed up Docker containers, innitialy prototyped in Python and Django.
+Mike talked about how good the Scala ecosystem is for prototyping. He told us about a project that speeds up Docker containers, innitialy prototyped in Python and Django.
 
 {% include figure image_path="assets/images/funscala2019/kotsur.jpg" caption="Don't pitch FP or Scala, pitch a solution" %}
 
@@ -82,7 +82,7 @@ I would say his presentation was an use case of architectural change, mostly ado
 
 ## Unveiling ZIO Test, by [Adam Fraser](https://twitter.com/adamfraser)
 
-This was one of my favourite talks. Adam introduced ZIO Test, and honestly, it seems awesome. I give it a try as soon as I can. It implements Tests as values, provides an easy syntax, generators and property based tests out of the box.
+This was one of my favourite talks. Adam introduced [ZIO Test](https://zio.dev/docs/usecases/usecases_testing), and honestly, it seems awesome, I will give it a try as soon as I can. It implements Tests as values, provides an easy syntax, generators and property based tests out of the box.
 
 {% include figure image_path="assets/images/funscala2019/fraser.jpg" caption="Tests frameworks need to evolve" %}
 
