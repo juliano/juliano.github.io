@@ -30,7 +30,7 @@ Piotr presented a modular architectural design on top of ZIO to deal with comple
 
 I would call his demo a "real world usecase" (`UserService`, `UserStorage`, so on and so far), the sort of example I consider very important; that's exactly what helps selling Scala and its ecossystem.
 
-He showed them how to test the modularized application, organise dependencies, the good and the bad. It was Piotr first presentation, and it was a great one. Well done Pietr!
+He showed then how to test the modularized application, organise dependencies, the good and the bad. It was Piotr first presentation, and it was a great one. Well done Pietr!
 
 ## ZIO Chunk: Fast, Pure Alternative to Arrays, by [Aleksandra A Holubitska](https://twitter.com/Oleksandra_A)
 
@@ -48,13 +48,13 @@ Pierre is the creator of [Caliban](https://ghostdogpr.github.io/caliban/), a pur
 
 {% include figure image_path="assets/images/funscala2019/ghostdogpr.jpg" caption="Caliban derives the schema from basic types" %}
 
-The talk was a general overview of the lib's capabilities, plus plans for the future. It's the sort of lib important to prove the maturity level of Scala ecosystem.
+The talk was a general overview of Caliban's capabilities, and plans for the future. It's the sort of lib important to prove the maturity level of Scala ecosystem.
 
 [Slides available here](https://www.slideshare.net/PierreRicadat/designing-a-functional-graphql-library-204680947)
 
 ## Macros and Environmental Effects, by Maxim Schuwalow
 
-A talk about how to eliminate boilerplate code in the ZIO environment, using [ZIO Macros](https://github.com/zio/zio-macros)
+A talk about how to eliminate boilerplate code in the ZIO environment, using [ZIO Macros](https://github.com/zio/zio-macros).
 
 {% include figure image_path="assets/images/funscala2019/mix_ab.jpg" caption="One primitive, no magic!" %}
 
@@ -68,13 +68,13 @@ A presentation about fast data use cases, in different sectors (Finance, Healthc
 
 {% include figure image_path="assets/images/funscala2019/bas.jpg" caption="Real world cases of streaming analytics" %}
 
-Bas showed us how to work this data with Spark + Kafka. How to prepare the data, process the streams, look at time windows and how to bound them by watermarks (timestamps).
+Bas showed us how to work this data with [Spark](https://spark.apache.org/) + [Kafka](https://kafka.apache.org/). How to prepare the data, process the streams, look at time windows and how to bound them by watermarks (timestamps).
 
 [Slides available here](https://streaming-analytics.github.io/Styx/presentations/functional-scala.html)
 
 ## ZIO Actors, by [Mateusz Sokol](https://twitter.com/mt_sokol)
 
-Mateusz started his talk going back to actors basics: what they are and what they should do. He made a quick demo using [Akka actors](https://doc.akka.io/docs/akka/current/typed/actors.html#akka-actors) and then introduced [ZIO Actors](https://zio.github.io/zio-actors/)
+Mateusz started his talk going back to actors basics: what they are and what they should do. He made a quick demo using [Akka actors](https://doc.akka.io/docs/akka/current/typed/actors.html#akka-actors) and then introduced [ZIO Actors](https://zio.github.io/zio-actors/).
 
 {% include figure image_path="assets/images/funscala2019/sokol.jpg" caption="ZIO Actors are location transparent" %}
 
@@ -104,11 +104,11 @@ Oleg delivered a proper class about Monoidal Categories Theory. This one took my
 
 ## Practical Logic(al) Programming with Dotty, by [Lander Lopez](https://twitter.com/LanderLo)
 
-This presentation was [Dotty](https://dotty.epfl.ch/) in a nutshell. My highlight is about [Union Types](https://dotty.epfl.ch/docs/reference/new-types/union-types.html). Unfortunately at this point I had to take a break, so missed most of the talk.
+This presentation was [Dotty](https://dotty.epfl.ch/) in a nutshell. I would highlight [Union Types](https://dotty.epfl.ch/docs/reference/new-types/union-types.html). Unfortunately at this point I had to take a break, so missed most of the talk.
 
 ## Next-Level Type Safety: An Intro to Generalized Algebraic Data Types, by Matthias Berndt
 
-Matthias started describing ADTs, using `Either` as example and talking about how we can reify type information into values. He discussed the limitations regarding some combinators, and introduced Generic ADTs.
+Matthias started describing [ADTs](https://blog.softwaremill.com/algebraic-data-types-in-four-languages-858788043d4e), using `Either` as example and talking about how we can reify type information into values. He discussed the limitations regarding some combinators, and introduced Generic ADTs.
 
 {% include figure image_path="assets/images/funscala2019/berndt.jpg" caption="GADTs: many possible generalizations" %}
 
