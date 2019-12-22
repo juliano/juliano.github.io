@@ -18,7 +18,7 @@ Paul couldn't be present, so we watched a video he recorded for the conference. 
 
 `df` is noisy, and visual noise is worse than audio noise. That was his motivation to start his new project: `xs`
 
-{% include figure image_path="assets/images/funscala2019/paul_phillips.jpg" caption="I want to work in peace without being assaulted all the time by meaninless garbage" %}
+{% include figure image_path="assets/images/funscala2019/paul_phillips.jpg" caption="I want to work in peace without being assaulted all the time by meaningless garbage" %}
 
 Paul is a great presenter. Having him was a nice start to the conference!
 
@@ -74,7 +74,7 @@ Some of the highlights about Scala and Kotlin interop were the differences betwe
 
 ## Prototyping the Future with Functional Scala, by [Mike Kotsur](https://twitter.com/s_fcopy)
 
-Mike talked about how good the Scala ecosystem is for prototyping. He told us about a project that speeds up Docker containers, innitialy prototyped in Python and Django.
+Mike talked about how good the Scala ecosystem is for prototyping. He told us about a project that speeds up Docker containers, initially prototyped in Python and Django.
 
 {% include figure image_path="assets/images/funscala2019/kotsur.jpg" caption="Don't pitch FP or Scala, pitch a solution" %}
 
@@ -109,7 +109,7 @@ Pierangelo presented a [pure functional, modular ray tracer library he built on 
 
 {% include figure image_path="assets/images/funscala2019/cecchetto.jpg" caption="Implementing World reflection" %}
 
-[Slides availabe here](https://www.slideshare.net/PierangeloCecchetto/ray-tracing-with-zio)
+[Slides available here](https://www.slideshare.net/PierangeloCecchetto/ray-tracing-with-zio)
 
 ## Invertible Programs, by [Sergei Shabanau](https://twitter.com/SShabanau)
 
