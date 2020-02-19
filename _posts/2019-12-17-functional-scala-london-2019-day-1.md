@@ -8,6 +8,7 @@ categories:
   - scala
   - opensource
   - community
+  - conference
 ---
 
 Last week I attended the [Functional Scala London 2019](https://www.functionalscala.com/), a conference with an incredible lineup of prominent figures of the Scala world. Organized by [John De Goes](https://twitter.com/jdegoes) and [Aleksandra A Holubitska](https://twitter.com/Oleksandra_A), this conference is a proper contribution to the community: 2 days of knowledge sharing at no cost for the attendees. This is my summary of every talk presented at day 1.

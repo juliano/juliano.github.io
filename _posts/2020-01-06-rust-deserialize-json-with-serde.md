@@ -8,6 +8,7 @@ categories:
   - rust
   - serde
   - json
+  - howto
 ---
 
 JSON can be a complicated format to manipulate, even though it's well structured text. When using static type languages - like Rust - we want the almighty compiler on our side, no one wants to work with pure text... but it happens :)

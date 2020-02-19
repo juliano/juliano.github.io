@@ -8,6 +8,7 @@ categories:
   - scala
   - opensource
   - community
+  - conference
 ---
 
 My summary of the second day attending the awesome [Functional Scala London 2019](https://www.functionalscala.com/). If you didn't [read the first part, just do it!](/2019/12/17/functional-scala-london-2019-day-1/)
