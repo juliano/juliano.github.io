@@ -15,7 +15,8 @@ Upcoming talks:
 
 2020:
 
-- Enhancing the type system with Refined Types - [Enhancing the type system with Refined Types](https://speakerdeck.com/julianoalves/enhancing-the-type-system-with-refined-types)
+- [Lambda Days](https://www.lambdadays.org/lambdadays2020/juliano-alves) - [Enhancing the type system with Refined Types](https://speakerdeck.com/julianoalves/enhancing-the-type-system-with-refined-types)
+  - [Video](https://www.youtube.com/watch?v=Fx8WXcAZWuk&list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6&index=28&t=0s)
 
 2019:
 
