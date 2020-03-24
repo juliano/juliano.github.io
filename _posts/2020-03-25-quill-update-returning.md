@@ -30,7 +30,8 @@ And the following `quote`:
 
 ```scala
 val q = quote {
-  query[Product].update(lift(Product(16, "Awesome Product", 42L)))
+  query[Product]
+    .update(lift(Product(16, "Awesome Product", 42L)))
     .returning(p => (p.id, p.description))
 }
 ```
