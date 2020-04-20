@@ -199,6 +199,6 @@ def organisations(request: OrganisationRequest):
 
 ## Conclusion
 
-Even though shapeless looks almost magical at the first glance, after dedicating myself to understand it better, I've figured it can be very useful in practical terms. Shapeless provides a broad range of typeclasses that can be used in all sort of ways, and spending time learning about how they work is a very intersting exercise, improving skills related to typeclasses, derivations and bringing clarity about how some popular libraries that use shapeless work, like [circe](https://circe.github.io/circe/).
+Even though shapeless looks almost magical at the first glance, after dedicating myself to understand it better, I've figured it can be very useful in practical terms. Shapeless provides a broad range of typeclasses that can be used in all sort of ways, and spending time learning about how they work is a very interesting exercise, improving skills related to typeclasses, derivations and bringing clarity about how some popular libraries that use shapeless work, like [circe](https://circe.github.io/circe/).
 
 I've heard that adding too much shapeless can properly affect the project's compile time. I'd like to hear more about it, if you have experience using shapeless directly, please share in the comments.
