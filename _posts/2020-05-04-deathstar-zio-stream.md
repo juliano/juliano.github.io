@@ -176,7 +176,7 @@ Now we have to deal with the project's proper unknown.
 
 ## Changing the environment: `SuperLaserShop`
 
-We probably share the same opinion about the one who came up with this requirement:
+We probably share the same opinion about the person who came up with this requirement:
 
 ![](/assets/images/drevil.jpg){: .align-center}
 
@@ -271,6 +271,8 @@ class StarshipFactory(
 ## Conclusion
 
 Building space stations has never been easier. Using a few `ZStream` operations - `zip`, `map`, `mapConcat`, `group`, `collect`, `via`, `take` and `runCollect` - we managed to build a space station the size of a moon, combining different sources, dealing delays and unexpected random events, easily making them work together.
+
+Have a look at the [repository with the full example](https://github.com/juliano/deathstar-zio-stream){:target="_blank"}.
 
 To learn more about ZIO Streams, I recommend this video, recorded a long time ago, in a galaxy far far away:
 
