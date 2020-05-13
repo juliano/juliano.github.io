@@ -15,6 +15,9 @@ Upcoming talks:
 
 2020:
 
+- Code & Create Episode 3 - Shapeless in the real world: An introduction to generic programming
+  - [Video](https://youtu.be/iz-kh6BA4Ds){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/shapeless-in-the-real-world-an-introduction-to-generic-programming){:target="_blank"}
+
 - [ScalaUA](https://www.scalaua.com/){:target="_blank"} - Manipulating Abstract Syntax Trees (ASTs) to generate safe SQL Queries with Quill
   - [Video](https://www.youtube.com/watch?v=aY8DrjE9lIY){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/manipulating-abstract-syntax-trees-asts-to-generate-safe-sql-queries-with-quill){:target="_blank"}
 
