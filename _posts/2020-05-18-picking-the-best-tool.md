@@ -47,7 +47,7 @@ Immediately, the picture of Tim Urban poped up in my mind:
 
 I would probably have hours and hours of fun, researching and implementing a `ZSink.iso88591Decode` or finding the right Rust crate to play with.
 
-I did neither. And still, I had a lot of fun! After getting back to reality, the answer was clear: bash tools were the right choice do the job.
+I did neither. And still, I had a lot of fun! After getting back to reality, the answer was clear: bash tools were ideal to do the job.
 
 ## The Logic (and smart) Solution
 
