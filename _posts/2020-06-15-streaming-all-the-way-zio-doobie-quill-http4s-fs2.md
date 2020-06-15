@@ -234,7 +234,7 @@ Despite the error message, everything we need is already in place, but the compi
 case GET -> Root =>
   val pipeline: CitiesTask[CitiesStream] = allCities
   for {
-    stream <- allCities
+    stream <- pipeline
     json <- Ok(stream.map(_.asJson))
   } yield json
 ```
