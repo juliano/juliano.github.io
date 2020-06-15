@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Streaming all the way with ZIO, Doobie, Quill, htt4s and fs2"
+title: "Streaming all the way with ZIO, Doobie, Quill, http4s and fs2"
 header:
   teaser: /assets/images/cascade.jpg
   imgcredit: Image by Pixabay from Pexels
