@@ -14,9 +14,9 @@ Discussing with a brazilian friend about the situation in our country, we realis
 
 The starting point would be: finding some data to analyse, that is relatively easy (at least from a developer's perspective) to collect. A good candidate is the [*Portal da Transparência*](http://portaltransparencia.gov.br/api-de-dados){:target="_blank"} (in literal translation, Transparency Portal), an initiative to make public data available via APIs or downloading CSV files.
 
-Is there a better way to learn about an API than writting a client for it? So let's do it with [ZIO](https://zio.dev) + [http4s client](https://http4s.org/v0.21/client/){:target="_blank"}!
+Is there a better way to learn about an API than writing a client for it? So let's do it with [ZIO](https://zio.dev) + [http4s client](https://http4s.org/v0.21/client/){:target="_blank"}!
 
-<a href="https://getquill.io/">
+<a href="https://zio.dev/">
 ![](/assets/images/zio-logo.jpg){: .align-center}
 </a>
 
