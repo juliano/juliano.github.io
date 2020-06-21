@@ -109,7 +109,7 @@ Maybe you are scratching your head due to that `import zio.interop.catz._`. `htt
 
 An instance of this class can't be created outside the `http` package; the instance will be provided through our `ZLayer`. Let's go back to `HttpClient.http4s`, it's time to implement it!
 
-### Provinding an `HttpClient.Service` through `ZLayer`
+### Providing an `HttpClient.Service` through `ZLayer`
 
 Having a service definition, `ZLayer.fromService` seems appropriate:
 
