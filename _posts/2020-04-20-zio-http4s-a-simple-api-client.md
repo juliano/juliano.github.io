@@ -81,7 +81,7 @@ def http4s: URLayer[Has[Client[Task]], HttpClient] = ???
 
 ## The `Http4s` implementation
 
-Implementating the get request is straightforward:
+Implementing the get request is straightforward:
 
 ```scala
 package pdt.http
