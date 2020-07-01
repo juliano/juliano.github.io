@@ -15,6 +15,9 @@ Upcoming talks:
 
 2020:
 
+- Live Coding - Building A Streaming Engine From The Ground Up Using Scala
+  - [Video](https://www.youtube.com/watch?v=6XDHLVHVZZg){:target="_blank"} / [Github Repo](https://github.com/juliano/streaming-from-the-ground-up/){:target="_blank"}
+
 - Code & Create Episode 3 - Shapeless in the real world: An introduction to generic programming
   - [Video](https://youtu.be/iz-kh6BA4Ds){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/shapeless-in-the-real-world-an-introduction-to-generic-programming){:target="_blank"}
 
