@@ -15,6 +15,9 @@ Upcoming talks:
 
 2020:
 
+- [Scaladores](https://www.youtube.com/channel/UCkm4KlPRDtD8zg3qMHkdSrQ){:target="_blank"} - Criando seu próprio Streaming [pt-BR]
+  - [Video](https://youtu.be/VoSTBzXW3Is){:target="_blank"} / [Github Repo](https://github.com/juliano/streaming-all-the-way){:target="_blank"}
+
 - Live Coding - Building A Streaming Engine From The Ground Up Using Scala
   - [Video](https://www.youtube.com/watch?v=6XDHLVHVZZg){:target="_blank"} / [Github Repo](https://github.com/juliano/streaming-from-the-ground-up/){:target="_blank"}
 
