@@ -11,7 +11,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 
 # Outputting
 permalink: /:year/:month/:day/:title/
@@ -23,12 +23,12 @@ include:
   - _pages
 
 plugins:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 
 author:
   name:          "Juliano Alves"

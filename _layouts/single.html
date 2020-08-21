@@ -34,7 +34,7 @@ layout: default
           {% endunless %}
 
           {% if page.read_time %}
-            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+            {% include post__meta.html %}
           {% endif %}
         </header>
       {% endunless %}
