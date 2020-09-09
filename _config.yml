@@ -52,6 +52,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/julianopalves/"
+    - label: "Speaker Deck"
+      icon: "fab fa-fw fa-speaker-deck"
+      url: "https://speakerdeck.com/julianoalves"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
