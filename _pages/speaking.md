@@ -11,7 +11,7 @@ I've always loved learning. We learn by teaching. The essence of teaching is to 
 
 Upcoming talks:
 
-- To be announced
+- [Codemotion](https://events.codemotion.com/conferences/online/2020/codemotion-online-tech-conference/){:target="_blank"} - From Functional Languages to Functional Architectures
 
 2020:
 
