@@ -11,9 +11,18 @@ I've always loved learning. We learn by teaching. The essence of teaching is to 
 
 Upcoming talks:
 
-- [Codemotion](https://events.codemotion.com/conferences/online/2020/codemotion-online-tech-conference/){:target="_blank"} - From Functional Languages to Functional Architectures
+- To be announced
 
-2020:
+## 2020
+
+- [DNAD](https://dotnetarchitects.github.io/dnad/){:target="_blank"} - Usando Kafka como fonte da verdade
+  - [Video](https://youtu.be/8WTGTlDJlbE?t=10140){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/usando-kafka-como-fonte-da-verdade){:target="_blank"}
+
+- [QCon HUB](https://hub.qconsp.com.br/) - Fazendo o compilador trabalhar por você: técnicas de manipulação e otimização de código
+  - [Video](https://www.infoq.com/br/presentations/tecnicas-de-manipulacao-e-otimizacao-de-codigo/){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/fazendo-o-compilador-trabalhar-por-voce-tecnicas-de-manipulacao-e-otimizacao-de-codigo){:target="_blank"}
+
+- [Codemotion](https://events.codemotion.com/conferences/online/2020/codemotion-online-tech-conference/){:target="_blank"} - From Functional Languages to Functional Architectures
+  - [Slides](https://speakerdeck.com/julianoalves/from-functional-languages-to-functional-architectures){:target="_blank"}
 
 - [Scaladores](https://www.youtube.com/channel/UCkm4KlPRDtD8zg3qMHkdSrQ){:target="_blank"} - Criando seu próprio Streaming [pt-BR]
   - [Video](https://youtu.be/VoSTBzXW3Is){:target="_blank"} / [Github Repo](https://github.com/juliano/streaming-all-the-way){:target="_blank"}
@@ -33,7 +42,7 @@ Upcoming talks:
 - [Lambda Days](https://www.lambdadays.org/lambdadays2020/){:target="_blank"} - Enhancing the type system with Refined Types
   - [Video](https://www.youtube.com/watch?v=Fx8WXcAZWuk&list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6&index=28&t=0s){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/enhancing-the-type-system-with-refined-types){:target="_blank"}
 
-2019:
+## 2019
 
 - JVM Roundabout Meetup - [Non-blocking Database Connectivity (NDBC), a fully async alternative to JDBC](https://youtu.be/4mDX5rJI208){:target="_blank"}
 - LDN Functionals Meetup - [Quill: Dealing with databases the functional way](https://youtu.be/L31U1R_jbks?t=3600){:target="_blank"}
