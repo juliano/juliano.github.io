@@ -33,16 +33,6 @@ I would call his demo a "real world usecase" (`UserService`, `UserStorage`, so o
 
 He showed then how to test the modularized application, organise dependencies, the good and the bad. It was Piotr first presentation, and it was a great one. Well done Pietr!
 
-## ZIO Chunk: Fast, Pure Alternative to Arrays, by [Aleksandra A Holubitska](https://twitter.com/Oleksandra_A)
-
-Another first time speaker! Aleksandra started listing the benefits of using arrays, highlighting the high performance and using benchmarks to compare diferent implementations. Afterwards, she talked about the drawbacks.
-
-{% include figure image_path="assets/images/funscala2019/oleksandra.jpg" caption="Zio Chunk has the benefits of an Array without the downside" %}
-
-She gave us an overview of [ZIO Chunk](https://javadoc.io/doc/dev.zio/zio_2.12/1.0.0-RC12-1/zio/Chunk.html), how to use its modern api, followed by an example using Chunk with [ZIO NIO](https://zio.github.io/zio-nio/).
-
-Congratulations for your great presentation, Aleksandra!
-
 ## Caliban: Designing a Functional GraphQL Library, by [Pierre Ricadat](https://twitter.com/ghostdogpr)
 
 Pierre is the creator of [Caliban](https://ghostdogpr.github.io/caliban/), a purely functional library for creating GraphQL backends in Scala. He told us about GraphQL in a nutshell followed by the reasons why the lib was created.
