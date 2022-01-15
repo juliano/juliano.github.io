@@ -11,7 +11,7 @@ categories:
   - conference
 ---
 
-Last week I attended the [Functional Scala London 2019](https://www.functionalscala.com/), a conference with an incredible lineup of prominent figures of the Scala world. Organized by [John De Goes](https://twitter.com/jdegoes) and [Aleksandra A Holubitska](https://twitter.com/Oleksandra_A), this conference is a proper contribution to the community: 2 days of knowledge sharing at no cost for the attendees. This is my summary of every talk presented at day 1.
+Last week I attended the [Functional Scala London 2019](https://www.functionalscala.com/), a conference with an incredible lineup of prominent figures of the Scala world. Organized by [John De Goes](https://twitter.com/jdegoes), this conference is a proper contribution to the community: 2 days of knowledge sharing at no cost for the attendees. This is my summary of every talk presented at day 1.
 
 ## Keynote: Against noise by Paul Phillips
 
@@ -41,7 +41,7 @@ Some takeaways from his talk:
 
 [Slides available here](https://speakerdeck.com/kubukoz/introduction-to-interruption)
 
-## Making Algorthms work with Functional Scala by [Karl Brodowsky](https://twitter.com/bk1_168)
+## Making Algorithms work with Functional Scala by [Karl Brodowsky](https://twitter.com/bk1_168)
 
 Karl's talk was heavily focused on algorithms and how we should be aware that, sometimes, when being purely focused on one aspect, we can forget about other important aspects of our software, like performance. Using sorting algorithms as examples, he measured and presented how immutability can be expensive.
 
