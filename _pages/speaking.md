@@ -11,7 +11,10 @@ I've always loved learning. We learn by teaching. The essence of teaching is to 
 
 Upcoming talks:
 
-- To be announced
+## 2021
+
+- [ScalaCon](https://www.scalacon.org/){:target="_blank"} - The Compiler is your Friend: ASTs and Code Generation with Quill
+  - [Video](https://www.youtube.com/watch?v=ANxdFLtM17Q){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/the-compiler-is-your-friend-asts-and-code-generation-with-quill){:target="_blank"}
 
 ## 2020
 
