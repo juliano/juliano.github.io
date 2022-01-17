@@ -25,7 +25,7 @@ Upcoming talks:
   - [Video](https://www.infoq.com/br/presentations/tecnicas-de-manipulacao-e-otimizacao-de-codigo/){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/fazendo-o-compilador-trabalhar-por-voce-tecnicas-de-manipulacao-e-otimizacao-de-codigo){:target="_blank"}
 
 - [Codemotion](https://events.codemotion.com/conferences/online/2020/codemotion-online-tech-conference/){:target="_blank"} - From Functional Languages to Functional Architectures
-  - [Slides](https://speakerdeck.com/julianoalves/from-functional-languages-to-functional-architectures){:target="_blank"}
+  - [Video](https://talks.codemotion.com/from-functional-languages-to-functional-){:target="_blank"} / [Slides](https://speakerdeck.com/julianoalves/from-functional-languages-to-functional-architectures){:target="_blank"}
 
 - [Scaladores](https://www.youtube.com/channel/UCkm4KlPRDtD8zg3qMHkdSrQ){:target="_blank"} - Criando seu próprio Streaming [pt-BR]
   - [Video](https://youtu.be/VoSTBzXW3Is){:target="_blank"} / [Github Repo](https://github.com/juliano/streaming-all-the-way){:target="_blank"}
