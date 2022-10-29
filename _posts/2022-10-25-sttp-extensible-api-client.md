@@ -8,6 +8,7 @@ categories:
   - sttp
   - zio-json
   - opensource
+classes: wide
 ---
 
 A while back I blogged about [how to write an api client using ZIO and http4s client](/2020/04/20/zio-http4s-a-simple-api-client). Revisiting it is interesting, so much changed since then! The post was a nice example at the time, but thinking about that solution as a real world implementation, it suffers from a couple of problems:
@@ -23,7 +24,7 @@ Having `client.getThis` and `client.getThat` implicates in changing the client i
 
 Let's start with a base definition for our new requests:
 
-```scala
+```scala3
 Request[Response]
 ```
 

@@ -1,3 +1,14 @@
 {% if page.path contains '_posts' %}
   <meta name="monetization" content="$ilp.uphold.com/DZpaQ2gUAQY9">
 {% endif %}
+
+<!-- highlighting !-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/atom-one-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js"></script>
+<script src="/js/scala3.js"></script>
+<script>
+    hljs.registerLanguage('scala3', highlightDotty);
+    hljs.registerAliases('dotty', 'scala3');
+    hljs.initHighlightingOnLoad();
+</script>
+<!-- end highlighting !-->
